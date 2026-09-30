@@ -1,0 +1,7 @@
+{
+  "name": "Mosyon",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
